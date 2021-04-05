@@ -1,0 +1,12 @@
+C:\Projects\RiderProjects\Assignment\Question1\bin\Debug\netcoreapp2.1\Question1.deps.json
+C:\Projects\RiderProjects\Assignment\Question1\bin\Debug\netcoreapp2.1\Question1.runtimeconfig.json
+C:\Projects\RiderProjects\Assignment\Question1\bin\Debug\netcoreapp2.1\Question1.runtimeconfig.dev.json
+C:\Projects\RiderProjects\Assignment\Question1\bin\Debug\netcoreapp2.1\Question1.dll
+C:\Projects\RiderProjects\Assignment\Question1\bin\Debug\netcoreapp2.1\Question1.pdb
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.AssemblyInfo.cs
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.dll
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.pdb
+C:\Projects\RiderProjects\Assignment\Question1\obj\Debug\netcoreapp2.1\Question1.genruntimeconfig.cache

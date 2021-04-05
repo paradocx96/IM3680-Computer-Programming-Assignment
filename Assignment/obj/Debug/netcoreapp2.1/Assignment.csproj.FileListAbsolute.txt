@@ -1,0 +1,12 @@
+C:\Projects\RiderProjects\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+C:\Projects\RiderProjects\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+C:\Projects\RiderProjects\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+C:\Projects\RiderProjects\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+C:\Projects\RiderProjects\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb
+C:\Projects\RiderProjects\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.genruntimeconfig.cache

@@ -2,5 +2,5 @@
 ## IM3680 – Computer Programming (MIS)  
 
 <!--
-B.BA. (Hons) specializing in Management InformationSystems
+B.BA. (Hons) specializing in Management Information Systems
 -->
